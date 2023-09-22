@@ -12,3 +12,7 @@ class Solution {
         return c;
     }
 }
+
+class Tite {
+    // Tanginaifsjfnehr
+}
